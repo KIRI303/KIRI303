@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hey, I'm Kiran 👋
 
-<!--
-**KIRI303/KIRI303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineering Student | 💻 Student Developer | 🇳🇵 Nepal
 
-Here are some ideas to get you started:
+I'm a student developer interested in programming, electronics, and understanding how computers work. I enjoy learning by building projects, experimenting with new technologies, and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Learning
+
+- 🐍 **Python** — programming and backend development
+- 🦀 **Rust** — systems programming and performance
+- 🐧 **Linux** — customization, scripting, and understanding the system
+
+## 🏆 Projects & Hackathons
+
+### 🌾 [Harvo](https://github.com/Team-Vagabond/Harvo)
+
+*A farm-to-vendor marketplace built for Nepal.*
+
+Harvo aims to connect farmers directly with vendors, helping reduce intermediaries and improve access to market information.
+
+**Key features**
+- 🎙️ Nepali voice-guided farmer interface
+- 📊 Kalimati wholesale market price integration
+- 💳 eSewa payment integration
+- 🌐 English and Nepali interface
+
+**Tech stack:** React · Node.js · Express · MongoDB · Socket.IO
+
+🔗 [Explore the repository](https://github.com/Team-Vagabond/Harvo)
+
+---
+
+### 🔬 Learnscape — Explore the Physics of the Real World
+
+*An interactive learning experience that brings physics concepts to life.*
+
+Learnscape is a hackathon web application designed to help curious minds understand the physics behind everyday phenomena.
+
+**Key features**
+- 📱 Camera-based augmented reality concept
+- ⚖️ Interactive exploration of density, weight, and upthrust
+- ➡️ Force-vector visualizations
+- 🎬 AI-generated educational animations using Python's Manim library
+
+The hackathon prototype focused on a water-bottle buoyancy scenario, demonstrating how changing an object's density affects its behavior in water.
+
+**Tech:** Web development · Augmented Reality · Physics visualization · Python · Manim
+
+🔗 [Explore the repository](PASTE_LEARNSCAPE_REPOSITORY_URL_HERE)
+
+---
+
+### 🚨 Crash Capsule — Offline Road Crash Witness Network
+
+🏆 **Winner — MBMC IdeaX 2026**  
+*Theme: Smart Urban Transportation & Road Safety*
+
+Crash Capsule explores an offline road crash witness network designed to preserve and share accident information when internet connectivity is unavailable.
+
+**Focus areas**
+- 🚗 Road safety and accident reporting
+- 📡 Offline communication and information sharing
+- 🤝 Helping witnesses contribute information during road emergencies
+
+🔗 [Explore Crash Capsule](https://github.com/MBMC-IdeaX/Vagabond)
+
+---
+
+## 🎯 Beyond Coding
+
+I'm interested in building practical solutions, exploring computer internals, and collaborating on ideas that combine engineering and software.
+
+## 📫 Find Me
+
+- GitHub: [@KIRI303](https://github.com/KIRI303)
+
+---
+
+*Learning by building, one project at a time.*
