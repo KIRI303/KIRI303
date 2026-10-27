@@ -30,7 +30,7 @@ Harvo aims to connect farmers directly with vendors, helping reduce intermediari
 
 ---
 
-### 🔬 LearnScape(https://github.com/Team-Vagabond/LearnScape)
+### 🔬 [LearnScape](https://github.com/Team-Vagabond/LearnScape)
  — Explore the Physics of the Real World
 
 *An interactive learning experience that brings physics concepts to life.*
