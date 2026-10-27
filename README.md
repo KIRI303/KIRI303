@@ -30,7 +30,8 @@ Harvo aims to connect farmers directly with vendors, helping reduce intermediari
 
 ---
 
-### 🔬 Learnscape — Explore the Physics of the Real World
+### 🔬 LearnScape(https://github.com/Team-Vagabond/LearnScape)
+ — Explore the Physics of the Real World
 
 *An interactive learning experience that brings physics concepts to life.*
 
@@ -46,11 +47,12 @@ The hackathon prototype focused on a water-bottle buoyancy scenario, demonstrati
 
 **Tech:** Web development · Augmented Reality · Physics visualization · Python · Manim
 
-🔗 [Explore the repository](PASTE_LEARNSCAPE_REPOSITORY_URL_HERE)
+🔗 [Explore the repository]((https://github.com/Team-Vagabond/Harvo)
+)
 
 ---
 
-### 🚨 Crash Capsule — Offline Road Crash Witness Network
+### 🚨 [Crash Capsule](https://github.com/MBMC-IdeaX/Vagabond) — Offline Road Crash Witness Network
 
 🏆 **Winner — MBMC IdeaX 2026**  
 *Theme: Smart Urban Transportation & Road Safety*
