@@ -49,10 +49,20 @@ I'm a student developer interested in programming, electronics, and understandin
 </table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-## 📫 Find Me
 
-- GitHub: [@KIRI303](https://github.com/KIRI303)
+## 📫 Connect with me
+<h3 align="center">Connect with me 🤝</h3>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/kiran-bhandari-274a18440/" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/KIRI303" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
+  </a>
+  <a href="mailto:kiranbhan223@gmail.com">
+    <img src="https://img.icons8.com/doodle/2x/gmail-new.png" width="35" height="43" alt="Gmail">
+  </a>
+</p>
 
 *Learning by building, one project at a time.*
