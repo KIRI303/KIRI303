@@ -68,6 +68,15 @@ Crash Capsule explores an offline road crash witness network designed to preserv
 
 ---
 
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KIRI303&show_icons=true&theme=dark)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KIRI303&layout=compact&theme=dark)
+
+
+
 ## 🎯 Beyond Coding
 
 I'm interested in building practical solutions, exploring computer internals, and collaborating on ideas that combine engineering and software.
