@@ -32,6 +32,10 @@ I'm a student developer interested in programming, electronics, and understandin
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/KIRI303/KIRI303/output/github-contribution-grid-snake.svg">
 </picture>  
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRI303&theme=react-dark" alt="KIRI303's GitHub contribution graph">
+</div>
+
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280"></td>
