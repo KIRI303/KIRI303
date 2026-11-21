@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## About Me
+## 👋 About Me
 
 ```text
 Name:      Kiran Bhandari
@@ -21,13 +21,13 @@ Education: 1st semester, Electrical Engineering
 Interests: Linux, automation, systems programming, AI
 ```
 
-## Skills
+## 🛠️ Skills
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,rust,python,mongodb,linux,git" alt="JavaScript, Rust, Python, MongoDB, Linux, and Git">
 </p>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/KIRI303">
@@ -56,7 +56,7 @@ Interests: Linux, automation, systems programming, AI
   </picture>
 </p>
 
-## Connect with Me
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kiran-bhandari-274a18440/" target="_blank">
