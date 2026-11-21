@@ -3,17 +3,21 @@
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=KIRI303&label=Profile%20views&color=blueviolet&style=flat-square">
 
 
-# Hey, I'm Kiran 👋
+## About Me
 
-🎓 Electrical Engineering Student | 💻 Student Developer | 🇳🇵 Nepal
+```text
+       Kiran Bhandari
+       ──────────────
+Location:   Kathmandu, Nepal
+Education:  1st semester, Electrical Engineering
+Interests:  Linux, automation, systems programming, AI
+```
 
-I'm a student developer interested in programming, electronics, and understanding how computers work. I enjoy learning by building projects, experimenting with new technologies, and solving real-world problems.
 
-## 🚀 What I'm Learning
 
-- 🐍 **Python** — programming and backend development
-- 🦀 **Rust** — systems programming and performance
-- 🐧 **Linux** — customization, scripting, and understanding the system
+## Skills
+
+![JavaScript, Rust, Python, MongoDB, Linux, and Git icons](https://skillicons.dev/icons?i=js,rust,python,mongodb,linux,git)
 
 
 
@@ -61,8 +65,8 @@ I'm a student developer interested in programming, electronics, and understandin
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
   </a>
   <a href="mailto:kiranbhan223@gmail.com">
-    <img src="https://img.icons8.com/doodle/2x/gmail-new.png" width="35" height="43" alt="Gmail">
-  </a>
+  <img src="https://img.icons8.com/doodle/2x/gmail-new.png" width="35" height="43" alt="Gmail">
+</a>
 </p>
 
 *Learning by building, one project at a time.*
