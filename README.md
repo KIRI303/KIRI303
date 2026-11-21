@@ -3,6 +3,13 @@
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=KIRI303&label=Profile%20views&color=blueviolet&style=flat-square">
 
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page." alt="Hello! Welcome to my GitHub page">
+  </a>
+</p>
+
+
 ## About Me
 
 ```text
