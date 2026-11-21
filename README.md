@@ -86,7 +86,7 @@ Crash Capsule explores an offline road crash witness network designed to preserv
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KIRI303/KIRI303/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KIRI303/KIRI303/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KIRI303/KIRI303/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/KIRI303/KIRI303/output/github-contribution-grid-snake.svg">
 </picture>  
 
 ## 🎯 Beyond Coding
