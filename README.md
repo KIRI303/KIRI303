@@ -1,3 +1,10 @@
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/KIRI303?style=social">
+&nbsp;&nbsp;
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/KIRI303?style=social">
+
+![Profile views](https://komarev.com/ghpvc/?username=KIRI303&label=Profile%20views&color=blueviolet&style=flat-square)
+
+
 # Hey, I'm Kiran 👋
 
 🎓 Electrical Engineering Student | 💻 Student Developer | 🇳🇵 Nepal
