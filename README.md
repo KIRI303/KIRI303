@@ -78,7 +78,7 @@ Crash Capsule explores an offline road crash witness network designed to preserv
   </a>
   <p>
   <a href="#">
-  <img alt="Kiran's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dracula&hide_border=true&background=000000EE"/>
+  <img alt="Kiran's streak" src="https://streak-stats.demolab.com/?user=KIRI303&theme=dracula&hide_border=true&background=000000EE"/>
   </a>
   </p>
 </div>
